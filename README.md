@@ -1,7 +1,7 @@
 # Hello World!, Yogesh Karnan here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 An enthusiastic and highly motivated under-graduate student in computer science and engineering, 
-skilled at 3D animation, content creation, editing and programming.
+skilled at 3D animation, content creation, editing and programming. Improving my skillset and learning new technologies constantly is something I look forward to.
 
 ## About me
 - 👀 I’m interested in everything
