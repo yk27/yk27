@@ -5,7 +5,7 @@ skilled at 3D animation, content creation, editing and programming. Improving my
 
 ## About me
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning App Development using Kotlin
 - 💞️ I’m looking to collaborate with other tech-enthusiasts
 - 📫 Reach me out on [LinkedIn]
 
